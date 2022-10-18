@@ -3,5 +3,5 @@ This is a todo list.
 1) push this file to GitHub
 
 2) learn git basic commands
-
+blah blah blah -- writing something here how pushing this down to local repo works.
 3)get this version to appear online
