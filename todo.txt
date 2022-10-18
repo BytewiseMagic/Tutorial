@@ -1,3 +1,7 @@
 This is a todo list.
-1) learn git basic commands
-2) push this file to GitHub
+
+1) push this file to GitHub
+
+2) learn git basic commands
+
+3)get this version to appear online
