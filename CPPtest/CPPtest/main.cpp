@@ -1,5 +1,6 @@
 //
-// testing to see if this file goes up git hub
+//  main.cpp
+//  CPPtest
 //
 //
 //
@@ -9,5 +10,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+    std::cout << "trying this out!\n";
     return 0;
 }
